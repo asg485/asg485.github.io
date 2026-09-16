@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.myumrata.app",
+      "sha256_cert_fingerprints": [
+        "5A:DC:AA:14:B0:18:9C:E5:D9:C1:70:1F:21:23:2A:EA:FD:CD:8D:DA:CE:B0:D2:92:AA:B5:FA:31:8E:53:81:EC"
+      ]
+    }
+  }
+]
